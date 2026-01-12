@@ -1,0 +1,22 @@
+# Default Risk Modeling
+
+## Problem
+Develop a quantitative framework to analyze and interpret the probability
+of default using financial and economic variables.
+
+## Data
+- Financial indicators relevant to credit risk
+- Dataset prepared for academic analysis
+
+## Methodology
+- Exploratory data analysis
+- Estimation of a default risk model using statistical techniques and ML models
+- Interpretation of default probabilities and risk drivers
+
+## Key Results
+- Identification of key variables associated with default risk
+- Estimated default probabilities under different conditions
+
+## Financial Interpretation
+The model provides insight into the factors driving credit risk and can
+be used as a foundation for credit analysis and risk management decisions.

@@ -1,0 +1,26 @@
+# CAPM Regression and Market Risk Analysis
+
+## Problem
+Analyze the sensitivity of an asset's returns to market movements using the
+Capital Asset Pricing Model (CAPM).
+
+## Data
+- Daily returns of market proxy (SPY)
+- Asset returns (e.g., GLD or other traded asset)
+- Data sourced from Yahoo Finance
+
+## Methodology
+- Alignment of asset and market returns
+- Estimation of alpha and beta using ordinary least squares (OLS)
+- Interpretation of regression coefficients
+- Visualization of the fitted CAPM relationship
+
+## Key Results
+- Estimated beta indicates the degree of market exposure
+- Alpha measures abnormal returns beyond market risk
+
+## Financial Interpretation
+A beta greater than one implies higher sensitivity to market movements,
+while a beta close to zero suggests weak market dependence.
+The CAPM framework provides a simple yet powerful tool to understand
+systematic risk in asset returns.
